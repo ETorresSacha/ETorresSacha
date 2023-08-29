@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Erik and I am an environmental chemical engineer, passionate about programming, my field is web development, however, I prefer the front-end because it interacts with the user but I am also good at the back-end.<br><br>- 🔭 I’m working as Skill Hub.<br>- 📚 I'm currently learning  typescript.<br>- ⚡ In my free time I play soccer.</p>
+<p align="left">I'm Erik and I am an environmental chemical engineer, passionate about programming, my field is web development, however, I prefer the front-end because it interacts with the user but I am also good at the back-end.<br><br>- 🔭 Currently I finished working as a collaborator in a project called Skill Hub<br>- 📚 <br>I am currently learning typescript<br>- ⚡ In my free time I play soccer</p>
 
 ###
 
