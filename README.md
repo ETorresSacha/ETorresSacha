@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Soy ingeniero químico ambiental, desde la universidad me apasioné por la programación, actualmente di un giro a mi carrera para iniciarme en el desarrollo web, en este campo, el front-end me parece más interesante porque interactúa directamente con el usuario, sin embargo, también me desenvuelvo bien en el back-end porque considero que es necesario para complentar con el front.<br><br>- 🔭 Actualmente terminé de trabajar como colaborador en un proyecto llamado Skill Hub.<br>- 📚 Actualmente estoy aprendiendo typescript.<br>- ⚡ En mi tiempo libre juego fútbol con los amigos.</p>
+<p align="left">Soy ingeniero químico ambiental, desde la universidad me interesé por la programación, actualmente di un giro a mi carrera para iniciarme en el desarrollo web, en este campo, el front-end me parece más interesante porque interactúa directamente con el usuario, sin embargo, también me desenvuelvo bien en el back-end porque considero que es necesario para complentar con el front.<br><br>- 🔭 Actualmente terminé de trabajar como colaborador en un proyecto llamado Skill Hub.<br>- 📚 Actualmente estoy aprendiendo typescript.<br>- ⚡ En mi tiempo libre juego fútbol con los amigos.</p>
 
 ###
 
