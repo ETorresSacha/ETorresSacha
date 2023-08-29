@@ -20,8 +20,8 @@
 
 ###
 
-<p align="left">Soy ingeniero químico ambiental, apasionado por la programación, mi campo es el desarrollo web, 
-sin embargo, prefiero el front-end porque interactúa con el usuario pero también soy bueno en el back-end.<br><br>- 🔭 Actualmente terminé de trabajar como colaborador en un proyecto llamado Skill Hub.<br>- 📚 I am currently learning typescript.<br>- ⚡ In my free time I play soccer.</p>
+<p align="left">Soy ingeniero químico ambiental apasionado por la programación, mi campo es el desarrollo web, 
+sin embargo, prefiero el front-end porque interactúa con el usuario pero también me desenvuelvo bien en el back-end.<br><br>- 🔭 Actualmente terminé de trabajar como colaborador en un proyecto llamado Skill Hub.<br>- 📚 Actualmente estoy aprendiendo typescript.<br>- ⚡ En mi tiempo libre juego fútbol con los amigos.</p>
 
 ###
 
