@@ -12,19 +12,20 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hola 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mi</h3>
 
 ###
 
-<p align="left">I'm Erik and I am an environmental chemical engineer, passionate about programming, my field is web development, however, I prefer the front-end because it interacts with the user but I am also good at the back-end.<br><br>- 🔭 Currently I finished working as a collaborator in a project called Skill Hub<br>- 📚 I am currently learning typescript<br>- ⚡ In my free time I play soccer</p>
+<p align="left">Soy Erik y soy ingeniero químico ambiental, apasionado por la programación, mi campo es el desarrollo web, 
+sin embargo, prefiero el front-end porque interactúa con el usuario pero también soy bueno en el back-end.<br><br>- 🔭 Actualmente terminé de trabajar como colaborador en un proyecto llamado Skill Hub.<br>- 📚 I am currently learning typescript.<br>- ⚡ In my free time I play soccer.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Lenguajes y herramientas</h3>
 
 ###
 
