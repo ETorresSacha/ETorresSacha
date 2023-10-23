@@ -12,8 +12,7 @@
 ###
 
 <p align="left">Soy Full stack Developer, con conocimientos en Git, Git Hub, metodología scrum, estructura de datos, algoritmos, pensamiento lógico y analítico; tengo experiencia desarrollando páginas web, tanto en el Back-End y en el Front-End.
-
-<br><br>- 🔭 Actualmente terminé de trabajar como colaborador en un proyecto llamado Skill Hub.<br>- 📚 Actualmente estoy aprendiendo typescript.<br>- ⚡ En mi tiempo libre juego fútbol con los amigos.</p>
+<br>- 🔭 Freelance.<br>- ⚡ En mi tiempo libre juego fútbol con los amigos.</p>
 
 ###
 
