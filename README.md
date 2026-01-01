@@ -1,18 +1,19 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+# Hola, soy Erik Torres 👋 | Data Scientist & Full Stack Developer
 
-###
-<h1 align="center">Hola 👋 mi nombre es Erik</h1>
+Ingeniero enfocado en la **automatización inteligente** y el desarrollo de **soluciones financieras y operativas**. Mi pasión es transformar datos complejos en herramientas de decisión estratégica mediante Machine Learning y arquitecturas Full Stack modernas.
 
-###
+- 🛠️ **Stack Técnico:** Python (Pandas, Scikit-learn), SQL, JavaScript (Node.js, React Native).
+- ⚙️ **Enfoque:** Algoritmos predictivos, sistemas financieros (Fintech) y optimización de procesos.
+- 🚀 **Metodologías:** Desarrollo Ágil (Scrum) y Arquitecturas Escalables.
 
-<h3 align="left">👩‍💻  Sobre mi</h3>
+---
 
-###
+## 🛠️ Tecnologías y Herramientas
 
-<p align="left">Soy Full stack Developer, con conocimientos en Git, Git Hub, metodología scrum, estructura de datos, algoritmos, pensamiento lógico y analítico; tengo experiencia desarrollando páginas web, tanto en el Back-End y en el Front-End.
-<br>- 🔭 Freelance.<br>- ⚡ En mi tiempo libre juego fútbol con los amigos.</p>
+- **Lenguajes:** Python, JavaScript (ES6+), SQL (PostgreSQL, MySQL, SQL Server).
+- **Data Science:** Scikit-learn, NumPy, Pandas, Modelado RUL, Estadística Aplicada.
+- **Full Stack:** React, React Native, Node.js, Express, Expo.
+- **Herramientas:** Git, GitHub, Docker, Metodologías Ágiles.
 
 ###
 
