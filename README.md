@@ -7,7 +7,7 @@
 ---
 
 ## 🔬 Sobre mí
-Soy un **Ingeniero Químico Ambiental** con un enfoque combino de la **Ingeniería de Procesos** y con potencia en **Ciencia de Datos** y el **Desarrollo Full Stack**.Mi especialidad es crear software que no solo funciona, sino que optimiza decisiones estratégicas.
+Soy un **Ingeniero Químico Ambiental** con un enfoque combino en **Ingeniería de Procesos** con potencia en **Ciencia de Datos** y el **Desarrollo Full Stack**. Mi especialidad es crear software que no solo funciona, sino que optimiza decisiones estratégicas.
 
 * 🔭 **Actualmente:** Desarrollando modelos predictivos de **Machine Learning** para el sector industrial.
 * 🏦 **Fintech:** Creador de **CrediCheck**, una solución integral para gestión de activos financieros.
