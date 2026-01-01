@@ -7,7 +7,7 @@ Soy un **Ingeniero Químico Ambiental** con un enfoque combino en **Ingeniería 
 
 * 🔭 **Actualmente:** Desarrollando modelos predictivos de **Machine Learning** para el sector industrial.
 * 🏦 **Fintech:** Creador de **CrediCheck**, una solución integral para gestión de activos financieros.
-* 🎓 **Especialización:** Posgrado en Ciencia de Datos para la Minería (**UTEC**) y Full Stack Developer (**Soy Henry**).
+* 🎓 **Especialización:** Programa en Ciencia de Datos para la Minería (**UTEC**) y Full Stack Developer (**Soy Henry**).
 
 ## 🛠️ Toolbox Tecnológico
 
