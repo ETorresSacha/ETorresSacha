@@ -1,19 +1,18 @@
-# Hola, soy Erik Torres 👋 | Data Scientist & Full Stack Developer
+# ⚡ Erik Torres | Data Scientist & Full Stack Engineer ⚡
 
-Ingeniero enfocado en la **automatización inteligente** y el desarrollo de **soluciones financieras y operativas**. Mi pasión es transformar datos complejos en herramientas de decisión estratégica mediante Machine Learning y arquitecturas Full Stack modernas.
+> "Transformando la complejidad industrial y financiera en soluciones digitales de alta precisión."
 
-- 🛠️ **Stack Técnico:** Python (Pandas, Scikit-learn), SQL, JavaScript (Node.js, React Native).
-- ⚙️ **Enfoque:** Algoritmos predictivos, sistemas financieros (Fintech) y optimización de procesos.
-- 🚀 **Metodologías:** Desarrollo Ágil (Scrum) y Arquitecturas Escalables.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](TU_LINK_DE_GITHUB)
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🔬 Sobre mí
+[cite_start]Soy un **Ingeniero Químico Ambiental** [cite: 37] [cite_start]con un enfoque híbrido: combino el rigor de la **Ingeniería de Procesos** con la potencia de la **Ciencia de Datos** y el **Desarrollo Full Stack**[cite: 6]. [cite_start]Mi especialidad es crear software que no solo funciona, sino que optimiza decisiones estratégicas[cite: 7].
 
-- **Lenguajes:** Python, JavaScript (ES6+), SQL (PostgreSQL, MySQL, SQL Server).
-- **Data Science:** Scikit-learn, NumPy, Pandas, Modelado RUL, Estadística Aplicada.
-- **Full Stack:** React, React Native, Node.js, Express, Expo.
-- **Herramientas:** Git, GitHub, Docker, Metodologías Ágiles.
+* [cite_start]🔭 **Actualmente:** Desarrollando modelos predictivos de **Machine Learning** para el sector industrial[cite: 10, 15].
+* [cite_start]🏦 **Fintech:** Creador de **CrediCheck**, una solución integral para gestión de activos financieros.
+* [cite_start]🎓 **Especialización:** Posgrado en Ciencia de Datos para la Minería (**UTEC**) y Full Stack Developer (**Soy Henry**)[cite: 38, 39].
 
 ###
 
