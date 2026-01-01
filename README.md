@@ -2,10 +2,6 @@
 
 > "Transformando la complejidad industrial y financiera en soluciones digitales de alta precisión."
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/erik-torres-sacha)
-
----
-
 ## 🔬 Sobre mí
 Soy un **Ingeniero Químico Ambiental** con un enfoque combino en **Ingeniería de Procesos** con potencia en **Ciencia de Datos** y el **Desarrollo Full Stack**. Mi especialidad es crear software que no solo funciona, sino que optimiza decisiones estratégicas.
 
